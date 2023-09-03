@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @serzaxlucifer
-- 👀 I’m interested in software development, machine learning.
-- 🌱 I’m currently learning C++, Java.
+- 👀 I’m interested in software development, deep learning.
+- 🌱 I’m currently learning C++, Java and Python.
 - 💞️ I’m looking to collaborate on Education Tutorials, Blogs.
 - 📫 You can reach me on my mail at mukulsinghmalik@gmail.com.
 
